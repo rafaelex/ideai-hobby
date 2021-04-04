@@ -1,0 +1,25 @@
+{
+  "name": "ideai-hobby",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelex/ideai-hobby.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafaelex/ideai-hobby/issues"
+  },
+  "homepage": "https://github.com/rafaelex/ideai-hobby#readme",
+  "dependencies": {
+    "dom": "^0.0.3",
+    "next": "^10.1.3",
+    "react": "^17.0.2"
+  }
+}
