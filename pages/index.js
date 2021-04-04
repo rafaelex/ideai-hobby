@@ -3,8 +3,8 @@ import { useState } from 'react';
 function Home(){
     return (
         <div>
-            <h1>Home</h1>
-            <h3>Bem vindo a página home da test-app!</h3>
+            <h1>Página Inicial</h1>
+            <h3>Bem vindo a página inicial da test-app!</h3>
             <Contador />
         </div>
     )
