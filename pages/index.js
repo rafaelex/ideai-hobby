@@ -1,3 +1,4 @@
+import Link from 'next/link'; 
 import { useState } from 'react';
 
 function Home(){
@@ -6,6 +7,11 @@ function Home(){
             <h1>Página Inicial</h1>
             <h3>Bem vindo a página inicial da test-app!</h3>
             <Contador />
+
+            <Link href="/sobre">
+                <a>Acessar página Sobre</a>
+            </Link>
+           
         </div>
     )
     
